@@ -1,0 +1,15 @@
+C:\Users\Н\Edu\C-sharp\lections\Helloconsole\bin\Debug\net6.0\Helloconsole.exe
+C:\Users\Н\Edu\C-sharp\lections\Helloconsole\bin\Debug\net6.0\Helloconsole.deps.json
+C:\Users\Н\Edu\C-sharp\lections\Helloconsole\bin\Debug\net6.0\Helloconsole.runtimeconfig.json
+C:\Users\Н\Edu\C-sharp\lections\Helloconsole\bin\Debug\net6.0\Helloconsole.dll
+C:\Users\Н\Edu\C-sharp\lections\Helloconsole\bin\Debug\net6.0\Helloconsole.pdb
+C:\Users\Н\Edu\C-sharp\lections\Helloconsole\obj\Debug\net6.0\Helloconsole.csproj.AssemblyReference.cache
+C:\Users\Н\Edu\C-sharp\lections\Helloconsole\obj\Debug\net6.0\Helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Н\Edu\C-sharp\lections\Helloconsole\obj\Debug\net6.0\Helloconsole.AssemblyInfoInputs.cache
+C:\Users\Н\Edu\C-sharp\lections\Helloconsole\obj\Debug\net6.0\Helloconsole.AssemblyInfo.cs
+C:\Users\Н\Edu\C-sharp\lections\Helloconsole\obj\Debug\net6.0\Helloconsole.csproj.CoreCompileInputs.cache
+C:\Users\Н\Edu\C-sharp\lections\Helloconsole\obj\Debug\net6.0\Helloconsole.dll
+C:\Users\Н\Edu\C-sharp\lections\Helloconsole\obj\Debug\net6.0\refint\Helloconsole.dll
+C:\Users\Н\Edu\C-sharp\lections\Helloconsole\obj\Debug\net6.0\Helloconsole.pdb
+C:\Users\Н\Edu\C-sharp\lections\Helloconsole\obj\Debug\net6.0\Helloconsole.genruntimeconfig.cache
+C:\Users\Н\Edu\C-sharp\lections\Helloconsole\obj\Debug\net6.0\ref\Helloconsole.dll
